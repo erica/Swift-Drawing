@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='000 UIKit and Quartz'/>
+        <page name='002 Old UIKit'/>
+        <page name='010 Custom DrawRect'/>
+        <page name='020 Color Wheel'/>
+        <page name='022 Advanced CG Layout'/>
+        <page name='024 Core Image'/>
+        <page name='030 Grayscale'/>
+        <page name='040 Basic Drawing'/>
+        <page name='042 Basic Drawing II'/>
+        <page name='044 PDF Context'/>
+        <page name='046 Context Drawing'/>
+        <page name='050 CGColor and Painter&apos;s Model'/>
+        <page name='052 Translucency'/>
+        <page name='054 Fill Stroke'/>
+        <page name='056 GState'/>
+        <page name='058 Coordinates'/>
+        <page name='060 Clipping'/>
+        <page name='070 Transforms'/>
+        <page name='072 Transforms 2'/>
+        <page name='074 Transforms 3'/>
+        <page name='076 Transforms 4'/>
+        <page name='080 Dashes'/>
+        <page name='Dash'/>
+    </pages>
+</playground>
